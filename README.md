@@ -6,4 +6,6 @@ Device: Lilypad arduino USB
 
 Board: Lilypad Arduino USB
 
-Port: Arduino ISP
+Port: COM6
+
+Programmer: Arduino ISP
